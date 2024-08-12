@@ -170,5 +170,7 @@ Sinta-se à vontade para contribuir com melhorias e correções. As contribuiç�
 Para qualquer dúvida ou sugestão, você pode me contatar em:
 
 Nome: Gabriel André de Lima Silva
+
 Instituição: Universidade do Estado do Rio de Janeiro - Zona Oeste
+
 Projeto: Capacitação Técnica para Automação Industrial e Acionamento de Motores
